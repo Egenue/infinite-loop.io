@@ -39,7 +39,7 @@ h2,h4,p{
     color: blue;;
 }
 #members{
-    display: flex;
+    display: grid;
     grid-template-columns: repeat(auto-fill,minmax(150px));
     gap: 10px;
     margin: 20px;
